@@ -1,0 +1,16 @@
+.container-fluid{
+    height: 100vh;
+}
+.content h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    
+}
+.content input{
+    margin:10px 160px;
+}
+.content button{
+    margin: 10px 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
